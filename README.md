@@ -1,4 +1,11 @@
 # Simulated Crop Row Datset
+<div style="text-align:center">
+<img width="200" height="200" src="img/dataset_e1.png">
+<img width="200" height="200" src="img/dataset_e2.png">
+<img width="200" height="200" src="img/dataset_e3.png">
+<br/>Depth maps 260, 261 and 262 of the dataset
+</div>
+
 This is a dataset containing 2720 depth maps for simulated strawberry crop rows. Strawberry crop rows are known for being covered by plastic in cylindrical shapes.
 
 It is useful for navigation purposes to identify the angle of the crop rows.
